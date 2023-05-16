@@ -1,3 +1,0 @@
-Id=0009,Name=Kazi Farmas Honey,Price=340,Quantity=null,MFD=6.5.2023,EXP=1 year
-Id=0003,Name=Pran Frooto Juice,Price=25,Quantity=null,MFD=14.5.2023,EXP=6 months
-Id=0002,Name=Fresh Salt,Price=60,Quantity=null,MFD=10.5.2023,EXP=1 year
